@@ -4,6 +4,10 @@
 INPUTFILE=$1
 OUTPUTNAME=$(echo -n $INPUTFILE | head -c -3)
 
+#say 'conversion in progress'
+echo "conversion in progress"
+echo " "
+
 # Convert markdown to HTML
 pandoc -o $OUTPUTNAME.html $INPUTFILE
 

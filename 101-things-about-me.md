@@ -1,4 +1,4 @@
-100 Crazy, Quirky, Random things about me
+# 100 Crazy, Quirky, Random things about me
 
 1.	I don’t like mustard
 2.	I sometimes wish my hair was brown (and sometimes I wish it was curly)
